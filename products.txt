@@ -1,0 +1,20 @@
+[
+	{
+		"title": "Escuadra",
+		"price": 123.45,
+		"thumbnail": "https://http2.mlstatic.com/D_NQ_NP_618201-MLC31211115332_062019-O.webp",
+		"id": 1
+	},
+	{
+		"title": "Calculadora",
+		"price": 234.56,
+		"thumbnail": "https://http2.mlstatic.com/D_NQ_NP_933828-MLC47613838689_092021-O.webp",
+		"id": 2
+	},
+	{
+		"title": "Ps4",
+		"price": 345.67,
+		"thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_640840-MLA45733317866_042021-F.webp",
+		"id": 3
+	}
+]
